@@ -23,6 +23,12 @@
     },
     "audio": {
       "type": "string"
+    },
+    "type": {
+      "type": "string"
+    },
+    "cover": {
+      "type": "string"
     }
   }
 }
