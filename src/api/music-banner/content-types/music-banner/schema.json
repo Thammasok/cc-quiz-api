@@ -4,7 +4,8 @@
   "info": {
     "singularName": "music-banner",
     "pluralName": "music-banners",
-    "displayName": "music banner"
+    "displayName": "Music banner",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
