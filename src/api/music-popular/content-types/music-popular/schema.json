@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "music_populars",
+  "info": {
+    "singularName": "music-popular",
+    "pluralName": "music-populars",
+    "displayName": "Music popular"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "band": {
+      "type": "string"
+    },
+    "file": {
+      "type": "string"
+    },
+    "time": {
+      "type": "string"
+    },
+    "cover": {
+      "type": "string"
+    }
+  }
+}

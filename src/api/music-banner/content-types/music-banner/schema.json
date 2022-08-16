@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "music_banners",
+  "info": {
+    "singularName": "music-banner",
+    "pluralName": "music-banners",
+    "displayName": "music banner"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "release": {
+      "type": "text"
+    },
+    "audio": {
+      "type": "string"
+    }
+  }
+}
